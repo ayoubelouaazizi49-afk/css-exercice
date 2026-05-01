@@ -1,0 +1,165 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.body {
+    background-color: rgba(160, 158, 158, 0.621);
+
+}
+
+.he {
+    background-color: black;
+    padding-top: 50px;
+    margin: 0px;
+}
+
+.titre {
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    gap: 20px;
+}
+
+
+.na {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+h2 {
+    color: orange;
+    text-align: center;
+    
+
+}
+
+.sect1 {
+    padding: 10px;
+    margin: 50px;
+    background-color: aliceblue;
+    border: 10px;
+}
+
+.sect2 {
+    padding: 10px;
+    margin: 50px;
+    background-color: aliceblue;
+    border: 10px;
+
+}
+
+.ima {
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 150px;
+
+
+}
+
+.sect3 {
+    padding: 10px;
+    margin: 50px;
+    background-color: aliceblue;
+    border: 10px;
+}
+
+.sect4 {
+    padding: 20px;
+    margin: 50px;
+    background-color: aliceblue;
+    border: 12px;
+
+}
+
+.sect5 {
+    padding: 30px;
+    margin: 50px;
+    background-color: aliceblue;
+    border-left: 10px solid orange;
+
+}
+
+.inf {
+    width: 250px;
+    height: 150px;
+    padding: 10px;
+    border-radius: 10px;
+border: 1px solid black ;
+
+}
+
+.sect6 {
+    padding: 30px;
+    margin: 60px;
+    background-color: aliceblue;
+    border: 10px;
+}
+
+.multip{color: orange;
+
+}
+.inf {
+    display: block;
+    margin: auto;
+
+}
+
+.bu:hover {background-color: orange;
+    color: aliceblue;
+}
+
+.main {
+    padding: 20px;
+}
+
+.sect7 {
+    padding: 40px;
+    margin: 60px;
+    background-color: aliceblue;
+    border: 10px;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+
+
+.bigp {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+.paragraph{
+    border: 2px solid black;
+    padding: 40px;
+    width: 50px;
+    margin: 20px;
+    background-color: gray;
+    width: 10%;
+}
+  .bu {background-color:rgb(248, 194, 67);
+    border: none;
+    padding: 10px;
+    color: aliceblue;
+  }
+a:hover{color: rgb(100, 69, 11);
+
+
+  }
+.bat:hover{color:gold;
+    
+}
